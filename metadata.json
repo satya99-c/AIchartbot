@@ -1,0 +1,6 @@
+{
+  "name": "Apigee Chatbot Integration",
+  "description": "Enterprise website chatbot integrated with Express AI middleware, Apigee API proxy configurations, and backend company services.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
